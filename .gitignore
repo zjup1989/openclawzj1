@@ -1,0 +1,20 @@
+# OpenClaw local/runtime state
+.openclaw/
+agents/
+skills/
+
+# Session/local scratch
+.gitkeep
+
+# Optional local-only identity/bootstrap files
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+TOOLS.md
+USER.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
